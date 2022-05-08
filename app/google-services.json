@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "212478564396",
+    "project_id": "recyclerviewpager2",
+    "storage_bucket": "recyclerviewpager2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212478564396:android:eb2a783ef86135435f1989",
+        "android_client_info": {
+          "package_name": "com.example.wisesaying"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212478564396-4uk5tqbfvilqkvhds0hl6felndsh24np.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZZTPr1bXTQyD4xX5sxKORQmQVyeWZemc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212478564396-4uk5tqbfvilqkvhds0hl6felndsh24np.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
